@@ -11,7 +11,8 @@ Just software that works.
 
 **Contact**
 
-↳ email - `i@bast.ug`  
-↳ PGP - `4083 54C1 7F0C 870D 831B  7854 D4F1 CB1D 86DD 3385` [pubkey.asc](./pubkey.asc) - [keyserver](https://keys.openpgp.org/search?q=i@bast.ug)
+ email: [i@bast.ug](mailto:i@bast.ug)
+ 
+ PGP:  `4083 54C1 7F0C 870D 831B  7854 D4F1 CB1D 86DD 3385` [pubkey.asc](./pubkey.asc) - [keyserver](https://keys.openpgp.org/search?q=i@bast.ug)
 
 ---
